@@ -5,6 +5,7 @@ bin/
 build/*.jar
 build/Panako-*
 doc/javadoc
+doc/index.html
 config.properties
 dbs
 
