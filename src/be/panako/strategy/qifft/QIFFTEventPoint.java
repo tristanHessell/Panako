@@ -61,7 +61,6 @@ public class QIFFTEventPoint {
 	/**
 	 * Create a new event point with a time, frequency and energy and contrast..
 	 * @param t The time expressed using an analysis frame index.
-	 * @param f The frequency expressed using the bin number in the constant Q transform.
 	 * @param frequencyEstimate A more detailed estimate of the frequency in Hz (using phase information).
 	 * @param energy The energy value of the element.
 	 * @param contrast How much contrast there is between this point and the surrounding environment
